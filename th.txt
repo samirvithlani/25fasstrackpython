@@ -85,6 +85,17 @@ else{
 
 
 
+GRADE SYSTEM:
+mark -->5 subject:
+enter maths mark,...,...,..
+
+per find:
+pers> 80 : A grade
+pers> 70 : B 
+>60 : c
+<60 : D
+<35 fail
+
 
 
 
