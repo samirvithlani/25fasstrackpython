@@ -1,0 +1,91 @@
+
+programming lanaguage:
+
+scripting lanaguage   :js,python
+programming lanaguage :c,cpp,java,...
+
+we have 2 types of programming | scripting language
+
+1)server side programming language: c,cpp,java,python
+2)client side programming language: end user, browser, javascri
+
+we have 2 typed of programming | scripting language
+
+datatype:
+1)staticlly typed: c,cpp,java
+    we have to define datatype while declaring a variable
+2)dynamiclly typed: python,js:
+    we have to define datatype while declaring a variable
+    compiler:
+
+files:
+.py
+
+history:
+1)python was developed by guido van rossum in 1991
+2)python is interpreted language
+
+use:
+1)python is used for web development: facebook, google, youtube
+2)python is used for data science: data analysis, data visualization
+3)python is used for machine learning: tensorflow, keras
+4)python is used for artificial intelligence: neural networks, deep learning
+5)games development: pygame
+
+input:
+type casting:
+implicit type casting:
+    when compiler do the job:
+    int x =100.20
+    output:100
+expilicit type casting
+    :when programmer will do the job:
+
+narrow typecasting     broad typecasting
+ 
+int --data ->float     float -->data -->int
+not possbile            float x = 100
+
+
+operators:
+defination:operators are special symbols which can use perofm 
+operation on oerand
+
+unery operators : it required single operand: ++a , --a 
+bin operators   : it required min 2 operand :
+ternery operators :it required min 3 operand
+
+
+1)arithmetic operators : + , - , 8,/ , // , **
+2)logical operators : and or not
+3)biwise operators: <<,>>,
+4)relational operators : <,>,<=,>=,==
+5)asignment operators : = , +=,-=,......
+6)membership operator : in not in
+7)identity operator : is is not
+? :
+
+
+
+decision making statement:
+if else:
+match case
+loops
+
+
+c language
+
+if(condiiton part){
+
+    if block..
+}
+else{
+    block par
+}
+
+
+
+
+
+
+
