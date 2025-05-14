@@ -96,6 +96,51 @@ pers> 70 : B
 <60 : D
 <35 fail
 
+create 1 game simulars:
+
+welecom cric l...
+
+please slecte mode
+single mult:
+
+loops:
+entry control loop:
+for   :when you know no of itration
+while :
+
+for(int i=1;i<=10;i++){
+
+    
+}
+range() membership operator in
+
+
+exit control :
+do while
+
+
+enter number print table of that numner
+
+10
+10 * 1 = 10
+10 * 2 = 20
+..
+..10 * 10 =
+
+
+get no from user find factorial of that numbner
+
+5
+1 * 2 *3 *4* 5 ==> 120
+
+
+fibonacci series:
+no1 = 0
+no2 = 1
+
+no1+no2 = 1
+0  1   1   2   3   5   8   13
+
 
 
 
