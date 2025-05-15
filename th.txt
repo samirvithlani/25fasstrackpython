@@ -165,3 +165,16 @@ find HCF of 2 nos:
 4 6 : 2
 
 
+str:
+'name' 'x' 'y' -->string
+
+string
+1)string is immutable: eg name = "abc"
+2)string stores data in index manner "a[0]b[1]c[2]"
+3)string is iterbale
+4)string is subscriptable = name = "ram" name[0]
+
+ascii value:unicode
+A - 65 a - 97
+
+
