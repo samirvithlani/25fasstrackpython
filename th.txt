@@ -211,3 +211,9 @@ x --> -1
 "hi this is india"
 "hithisisindia"
 
+find longest word from string:
+hi this is malayalam in india
+
+malayalam
+
+string slicing
