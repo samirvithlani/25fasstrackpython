@@ -178,3 +178,36 @@ ascii value:unicode
 A - 65 a - 97
 
 
+upper and lower function*
+user lower name -->please enter name 
+
+cover that name to upper case:
+hint:use ord chr and single single char concatination 
+name
+copyname 
+
+copyName = copyName + name[i]
+
+name = "ram"
+
+revName = "mar"
+
+palindrome ===
+"madam" yes
+
+name = "india is my country"
+#hint membership use in
+
+
+input enter string
+enter chr to search
+
+java
+a
+index =1
+ans = 1
+x --> -1
+
+"hi this is india"
+"hithisisindia"
+

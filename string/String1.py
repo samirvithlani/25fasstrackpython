@@ -22,7 +22,7 @@ print("length ",length)
 
 #print(name)
 
-# for i in name:
+# for i in name: #Royal
 #     print(i)
     
 
