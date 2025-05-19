@@ -5,3 +5,7 @@ insert()
 pop()
 pop(1)
 remove("elm")
+index
+count
+sort
+clear
