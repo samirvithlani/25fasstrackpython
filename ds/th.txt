@@ -9,3 +9,20 @@ index
 count
 sort
 clear
+
+task:
+list : numbers == [1,2,3,4,5]
+
+even list[2,4]
+odd list[1,3,5]
+
+string = ["ram","shym","sam","seeta"]
+"s"-->
+["shyam","sam","seeta"]
+
+
+remove duplicte element from list:
+["ram","shyam,"ram","seeta,"seeta","ajay"]
+ram,shyam,seeta,ajay : ->
+
+set -->

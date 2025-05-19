@@ -239,3 +239,4 @@ dict
 
 data type of list is list
 using [] we can create list.
+
