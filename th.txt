@@ -240,3 +240,12 @@ dict
 data type of list is list
 using [] we can create list.
 
+tuple:
+1)tuple is dynamic :
+2)tuple is hetrogenious [11,11,22,"mm",True]
+3)tuple allows duplicate element
+4)tuple is orderd : [100,20,43] --> 10,20,43
+5)list is iterbale
+6)list is subscriptable  [10,20,30] a[0]
+7)list is immutable   
+8)list stores data in index manner
