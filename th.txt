@@ -249,3 +249,15 @@ tuple:
 6)list is subscriptable  [10,20,30] a[0]
 7)list is immutable   
 8)list stores data in index manner
+
+dict:
+dict is dynamic
+dict stores data in key value pair {"name":"amit"}
+dict can have only unique key
+dict can have only duplicate values
+dict can have hetrogenious key and value both..
+dict mutable
+dict is iterbale
+dict is subscriptable
+
+dict
