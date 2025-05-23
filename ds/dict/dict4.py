@@ -8,6 +8,7 @@ opsindoor = data["opsindoor"] #["".""."."]
 # for i in opsindoor:
 #     print(i)
     
+#i,j ->2d aray [(),(),()]    
 for i,j in data.items():
     print(i,end=" ") #    j = list
     for x in j:
