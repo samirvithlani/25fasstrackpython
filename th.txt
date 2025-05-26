@@ -268,3 +268,7 @@ set is dynamic
 set allows unique elements
 set is unordered
 set is not subscriptable
+
+
+
+create set of 1to 10 element
