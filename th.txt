@@ -260,4 +260,11 @@ dict mutable
 dict is iterbale
 dict is subscriptable
 
-dict
+
+
+
+set:
+set is dynamic
+set allows unique elements
+set is unordered
+set is not subscriptable
