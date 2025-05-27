@@ -1,4 +1,7 @@
 chatroom = set({})
+# data =[]
+# x ={}
+# tup =()
 while True:
     choice = int(input(f"1. Join Chat \n2. Leave Chat \n3. Show Active Users 4. Exit\nEnter your choice (1-4):"))
     

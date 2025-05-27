@@ -4,21 +4,24 @@ events = [
     {"mumbai_Event": ["ram", "parth", "amit", "ajay", "jay"]}
 ]
 
-# Step 1: Convert lists to sets
-ahmedabad_attendees = set(events[0]["Ahme_Event"])
-udaipur_attendees = set(events[1]["Udaipur_Event"])
-mumbai_attendees = set(events[2]["mumbai_Event"])
+#find who have attended all city event
+#find all unique persons
+#find who have attended udaipur event but not mumbai's
+ahm_data = set(events[0]["Ahme_Event"])
+print(ahm_data)
+udaipur_data = set(events[1]["Udaipur_Event"])
+print(udaipur_data)
+mumbai_data = set(events[2]["mumbai_Event"])
+print(mumbai_data)
 
-# 1. Who attended all city events
-attended_all = ahmedabad_attendees.intersection(udaipur_attendees).intersection(mumbai_attendees)
+#users_all_attended_events= ahm_data.intersection(udaipur_data).intersection(mumbai_data)
+users_all_attended_events = ahm_data & udaipur_data & mumbai_data
+print("all ",users_all_attended_events)
 
-# 2. All unique persons
-all_unique_persons = ahmedabad_attendees.union(udaipur_attendees).union(mumbai_attendees)
+#users_all = ahm_data.union(udaipur_data).union(mumbai_data)
+users_all = ahm_data | udaipur_data | mumbai_data
+print(users_all)
 
-# 3. Attended Udaipur but not Mumbai
-udaipur_not_mumbai = udaipur_attendees.difference(mumbai_attendees)
-
-# Print results
-print("Attended all city events:", attended_all)
-print("All unique persons:", all_unique_persons)
-print("Attended Udaipur but not Mumbai:", udaipur_not_mumbai)
+#udaipur_not_mumbai = udaipur_data.difference(mumbai_data)
+udaipur_not_mumbai = udaipur_data - mumbai_data
+print(udaipur_not_mumbai)
