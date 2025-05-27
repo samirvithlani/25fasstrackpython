@@ -319,4 +319,27 @@ use of function:
 3)debugging : easy to debug code,
 4)readability : easy to read code
 
+calulator : add sub mul div
+
+enter 1 for add
+    a +b - 20
+    print(20)
+enter 2 for sub
+enter 3 for mul
+enter 4 for div
+
+5 for get all answrs
+
+condition: if list empty : user has not entered any operation yet.
+
+if user is doing add:10,20,33
+if user is doing mul : 100,300
+
+
+
+
+5 number press
+add: 3 times ans are : 10,20,33
+mul : 2 times ans are : 100,300 
+
     
