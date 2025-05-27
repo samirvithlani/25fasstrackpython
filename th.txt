@@ -291,3 +291,32 @@ Enter your choice (1-4): 1
 Enter username to join: alice
 ⚠️ User 'alice' is already in the chat!
 
+function:
+
+type of functions:
+
+1)built in functions
+2)user defined functions
+
+4 types of user defined functions:
+
+1)without argument and without return value
+2)with argument and without return value
+3)without argument and with return value
+4)with argument and with return value
+
+void demo
+int demo
+
+to create function we use def keyword
+def function_name():
+    # function body
+
+
+use of function:
+1)code reusability
+2)modularity : break code into small modules bank : deposit , withdraw, balance
+3)debugging : easy to debug code,
+4)readability : easy to read code
+
+    
