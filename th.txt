@@ -350,5 +350,15 @@ eg 10,10,100,9,70,65,0
 retuen [100,70,65] using comprehension
 
 
+args-->(100,True,20,20.89,100,"java",90.90)
+
+ans = {
+    'int':[100,20,100],
+    float:[],
+    str:[]
+    boolean:[True]
+}
+
+
 
     
