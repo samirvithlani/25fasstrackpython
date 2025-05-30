@@ -359,6 +359,10 @@ ans = {
     boolean:[True]
 }
 
+task2: pass any kind of argument in args and do sum of only numbers and return it
 
+task3: def operation(op,*args)
+op ="sum" --> sum -->numbers
+op = "mul" --> mul -->numbers
 
     
