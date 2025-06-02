@@ -366,3 +366,13 @@ op ="sum" --> sum -->numbers
 op = "mul" --> mul -->numbers
 
     
+GENERATOR yield:
+big file: line -->user
+1 line ->
+
+def test:
+return [10,1]
+
+file --> 1line
+2nd line -- return
+3rd line -- return
