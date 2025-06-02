@@ -376,3 +376,8 @@ return [10,1]
 file --> 1line
 2nd line -- return
 3rd line -- return
+
+
+decorators in python:
+decorators are functions that modify the behavior of another function or method. without changing its code.
+A decorator is a function that takes another function as an argument, extends its behavior, and returns a new function.
