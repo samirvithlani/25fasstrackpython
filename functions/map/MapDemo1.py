@@ -20,3 +20,9 @@ print(upper_list)
 #10
 #[100,200...]
 #aftedis[90,180...]
+
+sales  =[100,200,300,400,500,600,700]
+dis = float(input("Enter discount percentage: "))
+
+sales_after_discount = list(map(lambda x:x-(x*dis)/100 ,sales))
+print(sales_after_discount)
