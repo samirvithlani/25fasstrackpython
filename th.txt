@@ -413,3 +413,18 @@ constructor : constructor is special function which can create using __init__
             const does not have any return type but it can have param
             default const param
             to initialize instance varibale of class
+
+
+
+user username email passswprd ===>
+const --->
+
+display function : print
+
+user username email passswprd ===> dict --> pass
+const --->
+display function : print
+
+user username email passswprd ===> kwargs
+const --->
+display function : print
