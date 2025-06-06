@@ -384,3 +384,32 @@ A decorator is a function that takes another function as an argument, extends it
 
 
 function --> args --> int
+Exception handling
+file handling
+
+POPS:
+OOPS: class object wrap
+
+1)encapsulation : 
+                 1)class,object,constructor...
+2)inheritance
+3)polymorephisam
+4)abstraction
+
+
+class: class is blueprint of object:
+object: object is an real world entiy of class
+
+
+Fruit class apple,mango
+
+scchool --> students
+vehicle ->
+
+
+constructor : constructor is special function which can create using __init__
+            : use of constructor is to initilize class in memory
+            : constructor called auto when we create an object of class
+            const does not have any return type but it can have param
+            default const param
+            to initialize instance varibale of class
