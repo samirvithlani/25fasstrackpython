@@ -443,3 +443,17 @@ type of inheritance:
 
 create 2 class and def relation pf parent child class
 parent class must have param const and use that params in child class as display....
+
+
+
+
+multilelv inheritance:
+
+a --> b ---> c
+
+a prop b use c use
+b  prop -->c use
+
+
+
+
