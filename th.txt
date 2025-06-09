@@ -428,3 +428,14 @@ display function : print
 user username email passswprd ===> kwargs
 const --->
 display function : print
+
+INheritance:
+inheritance is the process by which one class (child class) can inherit the properties and methods of another class (parent class). T
+his allows for code reuse and the creation of a hierarchical relationship between classes.
+
+type of inheritance:
+1)single inheritance : 1 parent 1 child
+2)multiple inheritance : 1 child class and multiple parent class
+3)multilevel inheritance : parent class and child class and grand child class
+4)hierarchical inheritance : multiple child class and 1 parent class
+5)hybrid inheritance : combination of multiple inheritance and multilevel inheritance
