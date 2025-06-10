@@ -470,4 +470,6 @@ void demo():
 
 void demo(int a)
 
+overriding:
+parent class method crewtaed and child class method created with same name
 
