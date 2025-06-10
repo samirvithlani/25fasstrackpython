@@ -473,3 +473,8 @@ void demo(int a)
 overriding:
 parent class method crewtaed and child class method created with same name
 
+operator overloading:
+operators are use for performing operations on objects of user defined class.
+In Python, you can overload operators by defining special methods in your class. 
+These methods are prefixed and suffixed with double underscores (dunder methods). 
+For example, to overload the addition operator (+), you would define the `__add__` method in your class.
