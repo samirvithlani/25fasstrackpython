@@ -455,5 +455,19 @@ a prop b use c use
 b  prop -->c use
 
 
+polymorephisam: many form of the function
+2 type of polymorephisam are there
+1)compile time polymorephisam: function overloading,operator overloading
+2)runtime polymorephisam: function overriding
+
+function overloading : same function name but different number of parameters or different type of parameters
+in python it is not supported directly but we can achieve it using default parameters or variable length arguments (*args, **kwargs).
+
+'''
+
+void demo():
+    print("This is a demo function")
+
+void demo(int a)
 
 
