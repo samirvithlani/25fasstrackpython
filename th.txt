@@ -527,3 +527,6 @@ __add__, __sub__, __eq__, __lt__, __gt__, __str__, __mul__, __truediv__
 Value normalization (e.g., 100 paise = 1 rupee)
 
 Defensive programming
+
+
+MACD -> branch vijay cross --> MACD --> burger
