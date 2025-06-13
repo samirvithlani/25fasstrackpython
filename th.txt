@@ -568,3 +568,5 @@ hyrachi of exception in python:
 
 create udf function accept *args as param and sum of all numners
 if args has anny other datatype except int raise TypeError with message "Only numbers are allowed"            
+
+cretae function accespt kwargs if type of any key is not string raise TypeError with message "Only string keys are allowed"
