@@ -564,3 +564,7 @@ hyrachi of exception in python:
             SyntaxError
             TypeError
             ValueError
+
+
+create udf function accept *args as param and sum of all numners
+if args has anny other datatype except int raise TypeError with message "Only numbers are allowed"            
