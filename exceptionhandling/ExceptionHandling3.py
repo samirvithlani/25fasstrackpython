@@ -15,3 +15,15 @@ except ZeroDivisionError as e:
 except ValueError as e:
     print(f"value erorr cls{e}")    
 
+
+#string array :
+
+#"ram" 3 4 5 6
+#name
+#name[6]
+
+name= "ram"
+try:
+    print(name[4])
+except IndexError as e:
+    print(f"{e}")    
