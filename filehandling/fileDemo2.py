@@ -9,8 +9,12 @@ with open("./filehandling/ex1.txt","a") as file:
     file.write("this is example run again.......")
     
 
+# users = ['ram',"shyam","amit","sumit","ajay","jaya"]
+# with open("./filehandling/users.txt","a") as file:
+#     file.writelines(users)
+    
+
 users = ['ram',"shyam","amit","sumit","ajay","jaya"]
 with open("./filehandling/users.txt","a") as file:
-    file.writelines(users)
-    
+    file.writelines(i + '\n' for i in users)
         
