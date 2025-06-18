@@ -586,3 +586,14 @@ close file
 'x' : exclusive creation mode (fails if file exists)
 b: binary mode (for non-text files)
 
+
+
+get name from user using input:
+and give him 6 chnace to roll dice
+and count how many times he got 6
+use random
+
+
+generate random name: 5 char
+
+

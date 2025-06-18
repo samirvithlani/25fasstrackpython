@@ -17,7 +17,23 @@ data = ["ram","shyam","amit","sumit"]
 random.shuffle(data)
 print(data)
 
-random.seed(1)
+#random.seed(1)
 print(random.randint(1,100))
 
+name=  ""
+for i in range(1,6):
+    x = chr(random.randint(97,122))
+    name = name+x
 
+#print(name)    
+
+data = [chr(i) for i in range(97,123)]
+#print(data)
+name1=""
+for i in range(1,6):
+    name1 += random.choice(data)
+
+    
+    
+
+print(name1)    
